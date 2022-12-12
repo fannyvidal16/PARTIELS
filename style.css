@@ -1,0 +1,206 @@
+.navbar{
+    height: 150px;
+    background-color: #FF0026;
+}
+.logo{
+    height: 5vh;
+    margin-left: 250px;
+}
+.texteNav{
+    color: white;
+    font-size:x-large;
+    font-weight: 600;
+    margin-right: 250px;
+}
+.punchline{
+    background-image:  url("img/15.png");
+    height: 850px;
+    background-size: cover;
+    padding: 80px;
+}
+.title{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+    width: 600px;
+}
+
+.pictures{
+    display: flex;
+    padding: 160px;
+    justify-content: space-between;
+
+}
+.mcdo{
+    max-height: 250px;
+} 
+.coca{
+    max-height: 250px;
+ }
+.voiture{
+    max-height: 250px;
+ }
+.bouton{
+    display: flex;
+    justify-content: center;
+}
+.voirplus{
+    background-color:#198754;
+    color: white;
+    border:none;
+    border-radius: 3px;
+    font-size: xx-large;
+    font-weight: 500;
+}
+.Annonces{
+    display: flex;
+    margin: 40px;
+}
+.caseProduit{
+    height: 460px;
+    width: 310px;
+    display: table;
+    border-radius: 5px;
+    background-color: #FF0026;
+    border-color: black;
+    margin-top: 100px;
+
+}
+
+.home{
+    padding-left: 160px;
+    padding-right: 190px;
+}
+.ligne{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-top: 100px
+}
+.card{
+   margin-right: 30px;
+}
+.card-img-top{
+    height: 230px;
+    width: 305px;
+}
+.titleCard{
+    display: flex;
+    justify-content: center;
+}
+
+.card-text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.card a{
+
+    background-color: #198754;
+    border: none;
+    width: 150px;
+    margin-left: 50px;
+}
+
+.Chiffres{
+    height: 960px;
+    background-color: #EAE5E5;
+}
+.casesChiffres{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 175px;
+    padding-left: 175px;
+    padding-top: 100px;
+}
+.case{
+    height: 455px;
+    width: 330px;
+    background-color: white;
+    display: block;
+    border-color: black;
+    border-radius: 5px;
+
+    
+}
+.titleCase{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: 800;
+    padding-top: 150px;
+}
+.texteCase{
+    display: flex;
+    justify-content: center;
+}
+.infosChiffres{
+    padding-top: 100px;
+    padding-left:350px;
+    padding-right: 350px;
+}
+.infosChiffres h3{
+     display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.infosChiffres p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footer h3{
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+.edf{
+    max-height: 80px;
+    margin-left: 490px;
+}
+.col1 p{
+    font-size: large;
+    color: gray;
+    font-style: italic;
+    margin-top: -70px;
+}
+.monsanto{
+    max-height: 80px;
+    margin-left: 1200px;
+    margin-top: -100px;
+}
+.col2 p{
+    margin-left: 750px;
+    margin-top: -75px;
+    font-size: large;
+    color: gray;
+    font-style: italic;
+}
+.icons{
+     display: flex;
+     justify-content: space-evenly;
+     padding-left: 360px;
+     padding-right: 360px;
+     padding-top: 175px;
+     padding-bottom: 175px;
+}
+.fb{
+    max-height: 95px;
+}
+.ig{
+    max-height: 95px;
+}
+.twitter{
+    max-height: 95px;
+}
+.pinterest{
+    max-height: 95px;
+}
+.end{
+    display: flex;
+    justify-content: center;
+}
